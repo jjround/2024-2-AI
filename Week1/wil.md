@@ -30,3 +30,4 @@ AI, Learning, Deep Learning Component, Perceptron
 + 학습의 주체는 **모델**, 데이터를 학습하여 특정 작업을 수행하는 수학적/알고리즘적 구조이다
 
 ### 3.**Deep Learning Component**
+werqwer
